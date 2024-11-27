@@ -1,7 +1,7 @@
 <h1 style="text-align: center">Hello World!</h1>
-<p align="center">
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MrShadowSenpai&data=followers,repositories,stars,commits&theme=darkmode)]()
-</p>
+
 
 <p align="center">
 <a href="#" style="">
