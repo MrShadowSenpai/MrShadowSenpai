@@ -4,9 +4,7 @@
 
 
 <p align="center">
-<a href="#" style="">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MrShadowSenpai&theme=dark&hide_border=true&type=svg">
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MrShadowSenpai)]
 </p>
 <!---
 MrShadowSenpai/MrShadowSenpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
